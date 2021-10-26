@@ -23,3 +23,4 @@ phtotal = phi+php+phx+phy+phz
 if phtotal >= 85 and phtotal <= 100 :
     print("No nos vamos a quedar con hambre")
 
+#En la sintaxis he empleado diferentes variables para poder realizar operaciones lógicas, más el término if , utilizado para imprimir las respuestas basadas en unas condiciones, para condicionar estos datos he tenido que usar algunas operaciones lógicas
