@@ -1,7 +1,7 @@
 #tarea 6 (proyecto shipping)
 
 coste= 34
-peso= 44
+peso= 45
 
 x= peso*1.2
 
