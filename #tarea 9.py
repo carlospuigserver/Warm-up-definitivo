@@ -1,4 +1,3 @@
-#archivo-salida.py
-f = open("file_name", "r")
+f = open("flag.txt", "r")
+f.read
 print(f.read())
-f.close()
