@@ -1,4 +1,4 @@
-#tarea 5 intento 2
+#tareaa 5 
 
 #  17=17%=porcentaje de hambre inicial
 #  17*5=85
